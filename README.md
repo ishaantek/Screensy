@@ -1,4 +1,4 @@
-# Screenity
+# Screensy
 ![Demo](https://media.giphy.com/media/6hc709nFEYnEtzIIyN/giphy.gif)
 <br>
 The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -15,10 +15,12 @@ Made by [Alyssa X](https://alyssax.com)
 Also available for [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/screenity-screen-record/nbdkgeeeabnfegekngimpknhnkmocjcj)
 
 ## Table of contents
-- [Features](#features)
-- [Translating Screenity to other languages](#translating-screenity-to-other-languages)
-- [Self-hosting Screenity](#self-hosting-screenity)
-- [Libraries used](#libraries-used)
+- [Screensy](#screensy)
+  - [Table of contents](#table-of-contents)
+  - [Features](#features)
+  - [Translating Screenity to other languages](#translating-screenity-to-other-languages)
+  - [Self-hosting Screenity](#self-hosting-screenity)
+  - [Libraries used](#libraries-used)
 
 ## Features
 🎥 Make unlimited recordings of your tab, desktop, any application, and camera<br>

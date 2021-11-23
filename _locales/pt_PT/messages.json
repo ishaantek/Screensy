@@ -1,7 +1,7 @@
 {
     "extName": {
-      "message": "Screenity - Screen Recorder & Annotation Tool",
-      "message": "Screenity - Grave o ecrã e faça anotações",
+      "message": "Screensy - Screen Recorder & Annotation Tool",
+      "message": "Screensy - Grave o ecrã e faça anotações",
 
       "description": "Nome da extensão"
     },
@@ -109,21 +109,9 @@
       "message": "Avalia a extensão",
       "description": "Rate extension label in popup"
     },
-    "made_by_alyssa": {
-      "message": "Feito por Alyssa X",
-      "description": "Made by Alyssa X label in popup"
-    },
     "disabled_allow_access": {
       "message": "Desativado (permitir acesso na barra de endereços)",
       "description": "Disabled requiring permission for camera/mic in popup"
-    },
-    "made_with": {
-      "message": "Feito com",
-      "description": "Made with label in video editor"
-    },
-    "by_alyssa": {
-      "message": "por Alyssa X",
-      "description": "By Alyssa X label in video editor"
     },
     "edit_recording": {
       "message": "Editar a sua gravação",
