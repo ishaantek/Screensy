@@ -7,7 +7,7 @@ The most powerful screen recorder & annotation tool for Chrome 🎥
 
 Screensy is a feature-packed screen and camera recorder for Chrome. Annotate your screen to give feedback, emphasize your clicks, edit your recording, and much more.
 
-Made by [Ishaan Garg](https://www.allaboutishaan.com)
+Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
 
 <a href="https://www.producthunt.com/posts/screensy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-screensy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322725&theme=dark" alt="Screensy - Screen Recorder & Annotation Tool | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
