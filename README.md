@@ -7,7 +7,7 @@ The most powerful screen recorder & annotation tool for Chrome 🎥
 
 Screensy is a feature-packed screen and camera recorder for Chrome. Annotate your screen to give feedback, emphasize your clicks, edit your recording, and much more.
 
-Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
+Made by [Ishaan Garg](https://twitter.com/ishaantek)
 
 <a href="https://www.producthunt.com/posts/screensy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-screensy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=322725&theme=dark" alt="Screensy - Screen Recorder & Annotation Tool | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -36,8 +36,8 @@ Made by [Ishaan Garg](https://twitter.com/allaboutishaan)
 If you'd like to translate Screensy to a new language, here's what you should do:
 
 1. Make sure the language you want to translate Screensy into is supported by the Chrome Store. [Here's a list](https://developer.chrome.com/docs/webstore/i18n/#choosing-locales-to-support) of all the supported locales.
-2. Create a new folder under [_locales](https://github.com/allaboutishaan/screensy/tree/master/_locales) with the [locale name for your language](https://developer.chrome.com/docs/webstore/i18n/#choosing-locales-to-support).
-3. Make a copy of [this file](https://github.com/allaboutishaan/screensy/blob/master/_locales/en/messages.json) and translate the "message". The "description" shouldn't be translated, it's only there to give you some context where the string will show in the extension.
+2. Create a new folder under [_locales](https://github.com/ishaantek/screensy/tree/master/_locales) with the [locale name for your language](https://developer.chrome.com/docs/webstore/i18n/#choosing-locales-to-support).
+3. Make a copy of [this file](https://github.com/ishaantek/screensy/blob/master/_locales/en/messages.json) and translate the "message". The "description" shouldn't be translated, it's only there to give you some context where the string will show in the extension.
 4. Translate the [Chrome Store description](https://chrome.google.com/webstore/detail/screensy-screen-recorder/kdabkldmfdgpcmgdmhbalcljffbfamia?hl=en&authuser=0) so it can be published there, you can simply make a comment with it when you make a pull request. 
 
 Before submitting the pull request, it would be helpful if you tried running the extension in the new language, to make sure everything looks right.
@@ -61,4 +61,4 @@ You can run Screensy locally without having to install it from the Chrome Store.
 - [Plyr](https://github.com/sampotts/plyr) - for the video player shown when editing the recording
 
 #
- Feel free to reach out to me through email at ishaan@allaboutishaan.com or [on Twitter](https://twitter.com/allaboutishaan) if you have any questions or feedback! Hope you find this useful 💙
+ Feel free to reach out to me through email at ishaan@ishaantek.com or [on Twitter](https://twitter.com/ishaantek) if you have any questions or feedback! Hope you find this useful 💙
